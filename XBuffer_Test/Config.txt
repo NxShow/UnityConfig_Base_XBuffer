@@ -1,0 +1,10 @@
+cs_out_path=output_cs/
+data_out_path=output_data/
+template=templates/csharp_class.ftl
+buffer_template=templates/csharp_buffer.ftl
+collections_template=templates/csharp_class_s.ftl
+collections_buffer_template=templates/csharp_class_s_buffer.ftl
+config_mgr_buffer_template=templates/csharp_mgr_class_buffer.ftl
+csv_path=test_csv/
+suffix=.cs
+mgr_class_name=Config

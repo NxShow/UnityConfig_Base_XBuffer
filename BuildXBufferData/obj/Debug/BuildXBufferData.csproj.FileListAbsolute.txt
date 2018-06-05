@@ -1,0 +1,14 @@
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\BuildXBufferData.exe.config
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\BuildXBufferData.exe
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\BuildXBufferData.pdb
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\xbuffer_config.dll
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\xbuffer_runtime.dll
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\obj\Debug\BuildXBufferData.csprojResolveAssemblyReference.cache
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\obj\Debug\BuildXBufferData.csproj.CoreCompileInputs.cache
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\obj\Debug\BuildXBufferData.exe
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\obj\Debug\BuildXBufferData.pdb
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\CommonLib.dll
+E:\Game\Tools\BuildXBuffer\BuildXBufferData\bin\Debug\CommonLib.pdb
+E:\Game\GameConfig\XBuffer\BuildXBufferData.exe.config
+E:\Game\GameConfig\XBuffer\BuildXBufferData.exe
+E:\Game\GameConfig\XBuffer\BuildXBufferData.pdb

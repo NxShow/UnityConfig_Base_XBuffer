@@ -1,0 +1,31 @@
+// table_AchievementCondition
+class AchievementCondition
+{
+	type:int;		//param_0
+	count:int;		//param_1
+	param:int;		//param_2
+	compareType:int;		//param_3
+}
+
+// table_RewardItem
+class RewardItem
+{
+	itemId:int;		//param_0
+	itemCount:int;		//param_1
+}
+
+// table_IdPair
+class IdPair
+{
+	id:int;		//param_0
+	value:int;		//param_1
+}
+
+// table_TargetSystem
+class TargetSystem
+{
+	systemType:int;		//param_0
+	param1:int;		//param_1
+	param2:int;		//param_2
+	param3:int;		//param_3
+}

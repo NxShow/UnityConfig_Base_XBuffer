@@ -1,0 +1,5 @@
+E:\Game\Tools\BuildXBuffer\CommonLib\bin\Debug\CommonLib.dll
+E:\Game\Tools\BuildXBuffer\CommonLib\bin\Debug\CommonLib.pdb
+E:\Game\Tools\BuildXBuffer\CommonLib\obj\Debug\CommonLib.csproj.CoreCompileInputs.cache
+E:\Game\Tools\BuildXBuffer\CommonLib\obj\Debug\CommonLib.dll
+E:\Game\Tools\BuildXBuffer\CommonLib\obj\Debug\CommonLib.pdb

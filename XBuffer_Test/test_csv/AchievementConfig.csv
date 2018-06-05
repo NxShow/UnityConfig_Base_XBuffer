@@ -1,0 +1,6 @@
+1,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs,cs
+Id,ReadingName,ReadingDesc,Name,Desc,Icon,Difficulty,Condition,RewardItem,Buff,NeedAchievement,TargetSystem,Group
+,varchar(50),varchar(50),,,,,varchar(255),varchar(255),varchar(255),,varchar(255),
+,Invalid,Invalid,,,,,AchievementCondition,RewardItem[],IdPair,,TargetSystem,
+key,显示的名字,说明,名字字符串ID,说明字符串id,图标id,难度系数,完成条件,奖励,完成后获得的buff,前置条件,前往系统,分组
+1001,第一条,第一条说明,80001,84001,1001,1,34:1:2021:0,100:10;200:6,,0,4:0:0:0,1

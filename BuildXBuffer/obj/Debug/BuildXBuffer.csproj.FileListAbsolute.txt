@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\bin\Debug\BuildXBuffer.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\bin\Debug\BuildXBuffer.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\bin\Debug\BuildXBuffer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.pdb
+E:\Game\GameConfig\tools\exetools\xbuffer\BuildXBuffer.exe.config
+E:\Game\GameConfig\tools\exetools\xbuffer\BuildXBuffer.exe
+E:\Game\GameConfig\tools\exetools\xbuffer\BuildXBuffer.pdb
+E:\Game\GameConfig\XBuffer\BuildXBuffer.exe.config
+E:\Game\GameConfig\XBuffer\BuildXBuffer.exe
+E:\Game\GameConfig\XBuffer\BuildXBuffer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.csprojResolveAssemblyReference.cache
+E:\Game\Tools\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.csprojResolveAssemblyReference.cache
+E:\Game\Tools\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.csproj.CoreCompileInputs.cache
+E:\Game\Tools\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.exe
+E:\Game\Tools\BuildXBuffer\BuildXBuffer\obj\Debug\BuildXBuffer.pdb
